@@ -14,7 +14,8 @@ The program is packaged as an executable JAR. This is achieved by
   
   Once run, the program requests User Input:
 
-accountID - The account to calculate the balance for
-fromDate - The From Date to begin the calculation at. Input Format dd/MM/yyyy HH:mm:ss
-toDate - The To Date to begin the calculation at. Input Format dd/MM/yyyy HH:mm:ss
+1. accountID - The account to calculate the balance for.
+2. fromDate - The From Date to begin the calculation at. Input Format dd/MM/yyyy HH:mm:ss
+3. toDate - The To Date to begin the calculation at. Input Format dd/MM/yyyy HH:mm:ss
+ 
 The program outputs the relative balance and number of transactions in the calculation as per the challenge requirements
