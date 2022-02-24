@@ -1,14 +1,14 @@
 # MeBank
 Coding Challenge
-#Getting Started
+# Getting Started
 Checkout the Git Repository on master
 The project uses gradle 6.8.
-@Build
+# Build
 The program is packaged as an executable JAR. This is achieved by
  ./gradlew clean build
  This will generate a jar in build/lib directory.
  
- #Running
+ # Running
  
  java -jar MeBank-1.0-SNAPSHOT.jar <path to .csv file>
   
